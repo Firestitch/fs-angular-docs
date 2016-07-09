@@ -1,0 +1,63 @@
+[submodule "packages/fs-angular-lister"]
+	path = packages/fs-angular-lister
+	url = git@github.com:Firestitch/fs-angular-lister.git
+[submodule "packages/fs-angular-ago"]
+	path = packages/fs-angular-ago
+	url = git@github.com:Firestitch/fs-angular-ago.git
+[submodule "packages/fs-angular-former"]
+	path = packages/fs-angular-former
+	url = git@github.com:Firestitch/fs-angular-former.git
+[submodule "packages/fs-angular-modal"]
+	path = packages/fs-angular-modal
+	url = git@github.com:Firestitch/fs-angular-modal.git
+[submodule "packages/fs-angular-sidenav"]
+	path = packages/fs-angular-sidenav
+	url = git@github.com:Firestitch/fs-angular-sidenav.git
+[submodule "packages/fs-angular-validate"]
+	path = packages/fs-angular-validate
+	url = git@github.com:Firestitch/fs-angular-validate.git
+[submodule "packages/fs-angular-tabnav"]
+	path = packages/fs-angular-tabnav
+	url = git@github.com:Firestitch/fs-angular-tabnav.git
+[submodule "packages/fs-angular-address"]
+	path = packages/fs-angular-address
+	url = git@github.com:Firestitch/fs-angular-address.git
+[submodule "packages/fs-angular-file"]
+	path = packages/fs-angular-file
+	url = git@github.com:Firestitch/fs-angular-file.git
+[submodule "packages/fs-angular-drawer"]
+	path = packages/fs-angular-drawer
+	url = git@github.com:Firestitch/fs-angular-drawer.git
+[submodule "packages/fs-angular-password"]
+	path = packages/fs-angular-password
+	url = git@github.com:Firestitch/fs-angular-password.git
+[submodule "packages/fs-angular-api"]
+	path = packages/fs-angular-api
+	url = git@github.com:Firestitch/fs-angular-api.git
+[submodule "packages/fs-angular-alert"]
+	path = packages/fs-angular-alert
+	url = git@github.com:Firestitch/fs-angular-alert.git
+[submodule "packages/fs-angular-store"]
+	path = packages/fs-angular-store
+	url = git@github.com:Firestitch/fs-angular-store.git
+[submodule "packages/fs-angular-badge"]
+	path = packages/fs-angular-badge
+	url = git@github.com:Firestitch/fs-angular-badge.git
+[submodule "packages/fs-angular-heading"]
+	path = packages/fs-angular-heading
+	url = git@github.com:Firestitch/fs-angular-heading.git
+[submodule "packages/fs-angular-banner"]
+	path = packages/fs-angular-banner
+	url = git@github.com:Firestitch/fs-angular-banner.git
+[submodule "packages/fs-angular-color"]
+	path = packages/fs-angular-color
+	url = git@github.com:Firestitch/fs-angular-color.git
+[submodule "packages/fs-angular-country"]
+	path = packages/fs-angular-country
+	url = git@github.com:Firestitch/fs-angular-country.git
+[submodule "packages/fs-angular-bodyroute"]
+	path = packages/fs-angular-bodyroute
+	url = git@github.com:Firestitch/fs-angular-bodyroute.git
+[submodule "packages/fs-angular-prettytime"]
+	path = packages/fs-angular-prettytime
+	url = git@github.com:Firestitch/fs-angular-prettytime.git
