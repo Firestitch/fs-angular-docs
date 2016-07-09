@@ -52,7 +52,7 @@
       }
   </style>
 
-  <h1>Building Docs?></h1>
+  <h1>Building Docs</h1>
   <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
   <script>
       var down = function() {
