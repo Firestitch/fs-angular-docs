@@ -67,4 +67,12 @@ module.exports = function(grunt) {
         ]);
     });
 
+
+    grunt.registerTask('build', '', function(target) {
+
+        return grunt.task.run([ 
+            'ngdocs'
+        ]);
+    });
+
 };

@@ -29,7 +29,7 @@
 
 
   $commands = array_merge($commands,
-                          [  'cd ../ && grunt ',
+                          [  'cd ../ && grunt build',
                              'rm -f process.pid',
                              'chown -R apache:apache ../dist']);
 ?>
