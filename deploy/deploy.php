@@ -27,15 +27,9 @@
                 'cd ../ && git submodule update --init --remote --merge',
                 'cd ../ && git status 2>&1'];
 
- 
-  $commands = array_merge($commands,
-                            [   'cd ../frontend && bower install 2>&1',
-                                'cd ../frontend && bower update 2>&1',
-                                'cd ../frontend && npm install 2>&1']);
-
 
   $commands = array_merge($commands,
-                          [  'cd ../frontend && grunt ',
+                          [  'cd ../ && grunt ',
                              'rm -f process.pid',
                              'chown -R apache:apache ../dist']);
 ?>
@@ -58,7 +52,7 @@
       }
   </style>
 
-  <h1>Building <?=ucwords($build)?></h1>
+  <h1>Building Docs?></h1>
   <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
   <script>
       var down = function() {
@@ -112,9 +106,9 @@
     <? } ?>
   </div>
 
-  <h1 id="done-success" class="done dn"><?=ucwords($build)?> Build Complete!</h1>
+  <h1 id="done-success" class="done dn">Build Complete!</h1>
   <div id="done-error" class="done dn">
-      <h1>Error in <?=ucwords($build)?> Build!</h1>
+      <h1>Error in Build!</h1>
       <a href="<?=$_SERVER["REQUEST_URI"]?>?resolve=true">Auto resolve with NPM and Bower update</a>
   </div>
 
