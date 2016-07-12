@@ -37,7 +37,8 @@ module.exports = function(grunt) {
                 options: {
                     port: 5019,
                     hostname: 'localhost',
-                    base: 'dist'
+                    base: 'dist',
+                    open: true
                 }
             }
         },
@@ -51,7 +52,7 @@ module.exports = function(grunt) {
             titleLink: "/",
             bestMatch: true,
             styles: [
-                'styles/docs.css'
+                'grunt/styles/ngdocs.css'
             ]
           },
           all: ['packages/**/src/app/scripts/{,*/}*.js']
