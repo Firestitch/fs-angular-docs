@@ -58,9 +58,6 @@
 [submodule "packages/fs-angular-bodyroute"]
 	path = packages/fs-angular-bodyroute
 	url = git@github.com:Firestitch/fs-angular-bodyroute.git
-[submodule "packages/fs-angular-prettytime"]
-	path = packages/fs-angular-prettytime
-	url = git@github.com:Firestitch/fs-angular-prettytime.git
 [submodule "grunt"]
 	path = grunt
 	url = git@github.com:Firestitch/grunt.git
