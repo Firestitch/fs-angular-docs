@@ -61,3 +61,9 @@
 [submodule "grunt"]
 	path = grunt
 	url = git@github.com:Firestitch/grunt.git
+[submodule "packages/fs-angular-duration"]
+	path = packages/fs-angular-duration
+	url = git@github.com:Firestitch/fs-angular-duration.git
+[submodule "packages/fs-angular-submit"]
+	path = packages/fs-angular-submit
+	url = git@github.com:Firestitch/fs-angular-submit.git
