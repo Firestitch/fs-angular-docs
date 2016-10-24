@@ -67,3 +67,6 @@
 [submodule "packages/fs-angular-submit"]
 	path = packages/fs-angular-submit
 	url = git@github.com:Firestitch/fs-angular-submit.git
+[submodule "packages/fs-angular-date"]
+	path = packages/fs-angular-date
+	url = git@github.com:Firestitch/fs-angular-date.git
