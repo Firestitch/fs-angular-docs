@@ -73,3 +73,6 @@
 [submodule "packages/fs-angular-util"]
 	path = packages/fs-angular-util
 	url = git@github.com:Firestitch/fs-angular-util.git
+[submodule "packages/fs-angular-acl"]
+	path = packages/fs-angular-acl
+	url = git@github.com:Firestitch/fs-angular-acl.git
