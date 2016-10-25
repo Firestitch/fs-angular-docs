@@ -70,6 +70,3 @@
 [submodule "packages/fs-angular-date"]
 	path = packages/fs-angular-date
 	url = git@github.com:Firestitch/fs-angular-date.git
-[submodule "packages/fs-angular-util"]
-	path = packages/fs-angular-util
-	url = git@github.com:Firestitch/fs-angular-util.git
