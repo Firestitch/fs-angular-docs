@@ -76,3 +76,6 @@
 [submodule "packages/fs-angular-acl"]
 	path = packages/fs-angular-acl
 	url = git@github.com:Firestitch/fs-angular-acl.git
+[submodule "packages/fs-angular-format"]
+	path = packages/fs-angular-format
+	url = git@github.com:Firestitch/fs-angular-format.git
