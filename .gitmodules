@@ -79,3 +79,6 @@
 [submodule "packages/fs-angular-format"]
 	path = packages/fs-angular-format
 	url = git@github.com:Firestitch/fs-angular-format.git
+[submodule "packages/fs-angular-array"]
+	path = packages/fs-angular-array
+	url = git@github.com:Firestitch/fs-angular-array.git
