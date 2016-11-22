@@ -79,3 +79,6 @@
 [submodule "packages/fs-angular-array"]
 	path = packages/fs-angular-array
 	url = git@github.com:Firestitch/fs-angular-array.git
+[submodule "packages/fs-angular-time"]
+	path = packages/fs-angular-time
+	url = git@github.com:Firestitch/fs-angular-time.git
