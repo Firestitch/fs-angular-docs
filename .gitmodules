@@ -85,10 +85,7 @@
 [submodule "packages/fs-angular-duration"]
 	path = packages/fs-angular-duration
 	url = git@github.com:Firestitch/fs-angular-duration.git
-[submodule "packages/fs-angular-phone"]
-	path = packages/fs-angular-phone
-	url = git@github.com:Firestitch/fs-angular-phone.git
 [submodule "packages/fs-angular-math"]
 	path = packages/fs-angular-math
 	url = git@github.com:Firestitch/fs-angular-math.git
-	
+
