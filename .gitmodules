@@ -89,3 +89,6 @@
 	path = packages/fs-angular-math
 	url = git@github.com:Firestitch/fs-angular-math.git
 
+[submodule "packages/fs-angular-phone"]
+	path = packages/fs-angular-phone
+	url = git@github.com:Firestitch/fs-angular-phone.git
