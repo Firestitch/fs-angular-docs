@@ -92,3 +92,6 @@
 [submodule "packages/fs-angular-phone"]
 	path = packages/fs-angular-phone
 	url = git@github.com:Firestitch/fs-angular-phone.git
+[submodule "packages/fs-angular-string"]
+	path = packages/fs-angular-string
+	url = git@github.com:Firestitch/fs-angular-string.git
