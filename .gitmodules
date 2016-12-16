@@ -95,3 +95,6 @@
 [submodule "packages/fs-angular-string"]
 	path = packages/fs-angular-string
 	url = git@github.com:Firestitch/fs-angular-string.git
+[submodule "packages/fs-angular-checkboxes"]
+	path = packages/fs-angular-checkboxes
+	url = git@github.com:Firestitch/fs-angular-checkboxes.git
