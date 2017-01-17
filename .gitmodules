@@ -98,3 +98,6 @@
 [submodule "packages/fs-angular-checkboxes"]
 	path = packages/fs-angular-checkboxes
 	url = git@github.com:Firestitch/fs-angular-checkboxes.git
+[submodule "packages/fs-angular-browser"]
+	path = packages/fs-angular-browser
+	url = git@github.com:Firestitch/fs-angular-browser.git
